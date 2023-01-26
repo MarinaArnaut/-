@@ -1,0 +1,15 @@
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.csproj.AssemblyReference.cache
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.AssemblyInfoInputs.cache
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.AssemblyInfo.cs
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.csproj.CoreCompileInputs.cache
+D:\GB\Final_work_1_quarter\bin\Debug\net7.0\Final_work_1_quarter.exe
+D:\GB\Final_work_1_quarter\bin\Debug\net7.0\Final_work_1_quarter.deps.json
+D:\GB\Final_work_1_quarter\bin\Debug\net7.0\Final_work_1_quarter.runtimeconfig.json
+D:\GB\Final_work_1_quarter\bin\Debug\net7.0\Final_work_1_quarter.dll
+D:\GB\Final_work_1_quarter\bin\Debug\net7.0\Final_work_1_quarter.pdb
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.dll
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\refint\Final_work_1_quarter.dll
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.pdb
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\Final_work_1_quarter.genruntimeconfig.cache
+D:\GB\Final_work_1_quarter\obj\Debug\net7.0\ref\Final_work_1_quarter.dll
